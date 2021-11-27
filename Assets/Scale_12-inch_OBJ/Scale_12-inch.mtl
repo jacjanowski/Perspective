@@ -1,0 +1,18 @@
+
+newmtl Material~0
+Kd 0.7 0.7 0.7 1
+Ka 0 0 0 1
+Ks 0 0 0 1
+d 1
+
+newmtl Mtl
+Kd 1 1 1 1
+Ka 0 0 0 1
+Ks 1 1 1 1
+d 1
+
+newmtl Mtl8
+Kd 0 0 0 1
+Ka 0 0 0 1
+Ks 0 0 0 1
+d 1
